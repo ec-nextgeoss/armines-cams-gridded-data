@@ -81,7 +81,7 @@ dependencies:
   - libspatialite=4.3.0a=hb08deb6_19
   - libssh2=1.8.0=h1ba5d50_4
   - libstdcxx-ng=8.2.0=hdf63c60_1
-  - libtiff=4.0.10=h2733197_1001
+  - libtiff=4.0.10=h2733197_2
   - libuuid=1.0.3=h1bed415_2
   - libvpx=1.7.0=h439df22_0
   - libxcb=1.13=h1bed415_1
