@@ -2,7 +2,7 @@
 
 The current version of this Notebook only runs on the Jupyter Hub environment of Terradue and the needed environment to run the application has been already setup.
 
-In order to connect please follow the information as explained in the « Access instructions » file.
+In order to connect please follow the information as explained in the file NextGEOSS-ARMINES-Pilot-1-Access-Instructions.pdf.
 
 
 In a future version you’ll be able to use this notebooks on your own environment and consequently you will need to setup the notebook environment using a terminal and run:
